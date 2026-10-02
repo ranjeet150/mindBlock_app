@@ -5,3 +5,4 @@ contributoNote.md
 contract/target/
 
 .DS_Store
+config.bat
